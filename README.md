@@ -30,3 +30,9 @@ Hello My name is Kwon misa
 택배비 지불시 택배로 상품배달 가능
 
 ![inventory](https://user-images.githubusercontent.com/71074287/94363598-425cc000-00fe-11eb-8f4d-9d9eef6ff0cb.png)
+
+
+## 7주차 과제
+
+  ![7주차1](https://user-images.githubusercontent.com/71074287/96360592-7ead9a00-1159-11eb-9299-0177336e3980.PNG)
+  ![7주차2](https://user-images.githubusercontent.com/71074287/96360593-82412100-1159-11eb-81fd-65341a63cc4a.PNG)
