@@ -36,3 +36,14 @@ Hello My name is Kwon misa
 
   ![7주차1](https://user-images.githubusercontent.com/71074287/96360592-7ead9a00-1159-11eb-9299-0177336e3980.PNG)
   ![7주차2](https://user-images.githubusercontent.com/71074287/96360593-82412100-1159-11eb-81fd-65341a63cc4a.PNG)
+
+
+## 9주차 과제
+### 첫번째 사진
+![9-1](https://user-images.githubusercontent.com/71074287/97804744-23b98e00-1c95-11eb-9fdd-6f9397478b0d.PNG)
+### 이미지 바꾸기 버튼을 누른 사진
+![9-2](https://user-images.githubusercontent.com/71074287/97804745-25835180-1c95-11eb-8a50-30ca177eacab.PNG)
+### 넓이 버튼 사진
+![9-3](https://user-images.githubusercontent.com/71074287/97804747-261be800-1c95-11eb-9e29-97ed9736ec6c.PNG)
+### 높이 버튼 사진
+![9-4](https://user-images.githubusercontent.com/71074287/97804748-274d1500-1c95-11eb-81c0-87e906968192.PNG)
