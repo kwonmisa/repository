@@ -67,3 +67,23 @@ Hello My name is Kwon misa
 ### java코드
 ![화면 캡처 2020-11-08 194703](https://user-images.githubusercontent.com/71074287/98462959-51558880-21fb-11eb-8061-114fc774df25.png)
 ![화면 캡처 2020-11-08 194719](https://user-images.githubusercontent.com/71074287/98462960-531f4c00-21fb-11eb-93a4-6cd87e77031e.png)
+
+
+## 11주차 과제
+![화면 캡처 2020-11-14 233414](https://user-images.githubusercontent.com/71074287/99149541-0db6bf00-26d2-11eb-8eda-0fcb49a2a00d.png)
+![화면 캡처 2020-11-14 233429](https://user-images.githubusercontent.com/71074287/99149543-0ee7ec00-26d2-11eb-8b8d-3f71ed82550f.png)
+![화면 캡처 2020-11-14 233441](https://user-images.githubusercontent.com/71074287/99149545-10191900-26d2-11eb-9a99-95ab2dcb3b25.png)
+![화면 캡처 2020-11-14 233457](https://user-images.githubusercontent.com/71074287/99149547-11e2dc80-26d2-11eb-88dd-48dd808443bf.png)
+
+### activityMain.xml 코드
+![화면 캡처 2020-11-14 233656](https://user-images.githubusercontent.com/71074287/99149619-887fda00-26d2-11eb-9281-b821f139d526.png)
+
+### MainActivity.java 코드
+![화면 캡처 2020-11-14 233736](https://user-images.githubusercontent.com/71074287/99149621-89b10700-26d2-11eb-9987-3c180292385d.png)
+![화면 캡처 2020-11-14 233753](https://user-images.githubusercontent.com/71074287/99149625-8b7aca80-26d2-11eb-91ac-3b54da95e8f7.png)
+
+### MenuActivity.java 코드
+![화면 캡처 2020-11-14 233803](https://user-images.githubusercontent.com/71074287/99149629-8cabf780-26d2-11eb-801d-be6c3063565b.png)
+
+### AndroidManifest.xml 코드
+![화면 캡처 2020-11-14 233816](https://user-images.githubusercontent.com/71074287/99149630-8e75bb00-26d2-11eb-9901-3611b58cd2b5.png)
