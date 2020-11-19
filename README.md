@@ -87,3 +87,21 @@ Hello My name is Kwon misa
 
 ### AndroidManifest.xml 코드
 ![화면 캡처 2020-11-14 233816](https://user-images.githubusercontent.com/71074287/99149630-8e75bb00-26d2-11eb-9901-3611b58cd2b5.png)
+
+
+## 12주차 과제
+![12-1](https://user-images.githubusercontent.com/71074287/99621973-8fa93e00-2a6c-11eb-8312-eaf63a144c78.png)
+![12-2](https://user-images.githubusercontent.com/71074287/99621986-95068880-2a6c-11eb-8660-4f9b2d7f258d.png)
+
+### AndroidManifest.xml 코드
+![12 AndroidManifest xml](https://user-images.githubusercontent.com/71074287/99622059-bb2c2880-2a6c-11eb-92cb-c0be015367a3.png)
+
+### build.gradle 코드
+![12 build gradle](https://user-images.githubusercontent.com/71074287/99622065-c0897300-2a6c-11eb-9631-01c4beef0df8.png)
+
+### activity_main.xml 코드
+![12 activity_main xml](https://user-images.githubusercontent.com/71074287/99622070-c41cfa00-2a6c-11eb-82a4-bbe6c8b9dc4e.png)
+
+### MainActivity.java 코드
+![12 MainActivity java 1](https://user-images.githubusercontent.com/71074287/99622076-c717ea80-2a6c-11eb-8017-e69c8d592268.png)
+![12 MainActivity java 2](https://user-images.githubusercontent.com/71074287/99622082-c97a4480-2a6c-11eb-9d12-9b3ef0065887.png)
